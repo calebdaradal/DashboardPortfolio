@@ -42,7 +42,7 @@ export const AuthLayout: React.FC<AuthLayoutProps> = ({ children }) => {
       <div className="mt-8 text-center">
         <p className="text-xs text-gray-500">
           © 2025 Administrator Dashboard. All rights reserved.
-          Create by Jeramy Caleb Daradal
+          Created by Jeramy Caleb Daradal
         </p>
       </div>
     </div>
